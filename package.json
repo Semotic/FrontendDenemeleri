@@ -1,0 +1,27 @@
+{
+  "name": "frontenddenemeleri",
+  "version": "1.0.0",
+  "description": "Frontend geliştirmelerini öğrenme amaçlı test ortamı.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Semotic/FrontendDenemeleri.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Semotic/FrontendDenemeleri/issues"
+  },
+  "homepage": "https://github.com/Semotic/FrontendDenemeleri#readme",
+  "devDependencies": {
+    "webpack": "^5.61.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
